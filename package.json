@@ -8,7 +8,7 @@
   "files": ["static", "src", ".gitignore", "app.json", ".replit", "replit.nix", "Procfile"],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amethystnetwork-dev/Hypertabs"
+    "url": "git+https://github.com/Splate88/Hypertabs"
   },
   "keywords": ["amethystnetwork-dev"],
   "author": "",
